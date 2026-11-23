@@ -1,0 +1,52 @@
+
+# ==========================================
+# RAFA DEV ENVIRONMENT
+# ==========================================
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Credentials and private keys
+secrets/
+credentials/
+*.pem
+*.key
+
+# Personal configuration
+config.local.toml
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+temp/
+tmp/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE personal settings
+.idea/
+.vscode/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/

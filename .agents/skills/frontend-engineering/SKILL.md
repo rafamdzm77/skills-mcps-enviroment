@@ -1,7 +1,7 @@
 
 ---
 name: frontend-engineering
-description: Desenvolve interfaces web profissionais, responsivas, acessíveis, performáticas e organizadas, seguindo boas práticas de engenharia frontend.
+description: Desenvolve interfaces web profissionais, responsivas, acessíveis, performantes e organizadas, seguindo boas práticas de engenharia frontend.
 ---
 
 # Frontend Engineering
